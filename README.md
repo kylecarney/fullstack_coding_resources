@@ -1,6 +1,6 @@
 # Curriculum Resources
 
-- Collaborative effort by many instructional staff. Also, thanks to @ceckenrode for correcting format for linter!
+
 
 # Table of Contents
 * [Command Line](#command-line)
@@ -30,7 +30,7 @@
 
 ## Command Line
 
-* [LPTHW: Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html) - Uploaded by @charmeleon.
+* [LPTHW: Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html) 
 
   * Skill Level : Beginner
 
@@ -202,10 +202,10 @@
 * [Code School](#code-school)
 * [W3Schools](#w3schools)
 * [Mozilla MDN](#mozilla-developer-network)
-* [CSS Tricks](https://css-tricks.com/) - Uploaded by @Multishifties
-* [Flexbox Game #1](http://www.flexboxdefense.com/) - - Uploaded by @Multishifties
-* [Flexbox Game #2](http://flexboxfroggy.com/) - Uploaded by @Multishifties
-* [Flexbox Manual](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af)- Uploaded by @Multishifties
+* [CSS Tricks](https://css-tricks.com/) 
+* [Flexbox Game #1](http://www.flexboxdefense.com/) 
+* [Flexbox Game #2](http://flexboxfroggy.com/) 
+* [Flexbox Manual](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af)
 * [PluralSight - CSS Preprocessors: LESS, SASS, PostCSS](https://www.pluralsight.com)  
   * Pluralsight is a video-based tutorial site with plenty of Intermediate to Advanced learning modules. Pluralsight has several modules on CSS Preprocessing, including modules on LESS, SASS, and PostCSS.
   
@@ -237,7 +237,7 @@
 
     * Great for Getting Started
 
-* [No-nonsense GitHub Project](https://github.com/Multishifties/No-Nonsense-Github-Project) - - Uploaded by @Multishifties
+* [No-nonsense GitHub Project](https://github.com/Multishifties/No-Nonsense-Github-Project) 
     
 	* Open source GitHub video tutorial series.
 
@@ -257,7 +257,7 @@
 	
 	  * All students as a quick and easy-to-find reference on most basic Git functionality.
 
-* [Gettin' Git](https://github.com/colinbinion/GettinGit) - Uploaded by @tatianaalcocer.
+* [Gettin' Git](https://github.com/colinbinion/GettinGit)
 
 	* Open source GitHub tutorial and crib sheet with quick commands.
 	
@@ -452,7 +452,7 @@
 
 ## Front-End JavaScript
 
-* [Programming Foundations: Fundamentals](https://www.lynda.com/Programming-Foundations-tutorials/Foundations-Programming-Fundamentals/83603-2.html) - Uploaded by @kanwisher
+* [Programming Foundations: Fundamentals](https://www.lynda.com/Programming-Foundations-tutorials/Foundations-Programming-Fundamentals/83603-2.html) 
   
   * This course provides the core knowledge to begin programming in any language. 
   
@@ -890,7 +890,7 @@
 * [Leet Code](https://leetcode.com/)
 * [Interview Bit](https://www.interviewbit.com/)
 * [Spec.fm Podcast](http://spec.fm/podcasts/developer-tea/38544)
-* [Front-end JavaScript Interview Questions](https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-%28written-by-a-Frontend-Engineer%29) - Submitted by @tatianaalcocer.
+* [Front-end JavaScript Interview Questions](https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-%28written-by-a-Frontend-Engineer%29) 
 * [Short Youtube JavaScript Q/A](https://www.youtube.com/watch?v=GvE7xMZxAsU)
  
   * Non-code based video of JavaScript Questions and Answers.
@@ -965,7 +965,7 @@
 
 ## Constructors
 
-[Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet) - Uploaded by @Multishifties
+[Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet) 
 
 <a href="#mysql"></a>
 ## MySQL
@@ -973,8 +973,8 @@
 ## Node/Express
 <a href="#node-express"></a>
 
-* [Full Stack Review Lecture](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bd0c3741-8f15-4aaa-8e61-c854566eac49) - Uploaded by @Multishifties
-* [Full Stack Review Repo](https://github.com/Multishifties/full-stack-employee-list) - Uploaded by @Multishifties
+* [Full Stack Review Lecture](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bd0c3741-8f15-4aaa-8e61-c854566eac49)
+* [Full Stack Review Repo](https://github.com/Multishifties/full-stack-employee-list)
 * [Express S3 File Upload Tutorial](https://github.com/fishcharlie/ExpressFileUploadS3Example)
 
 
@@ -1136,7 +1136,7 @@
 ## Extra Resources
 
 * [Docker](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9fdd5551-210f-4fab-9cbf-c7023d0222fb)
-* [Coggle](https://coggle.it/) - Uploaded by @amaddatu
+* [Coggle](https://coggle.it/) 
   
   Coggle is great for idea mapping and giving it out as "takeaway" study guides for students.
   
